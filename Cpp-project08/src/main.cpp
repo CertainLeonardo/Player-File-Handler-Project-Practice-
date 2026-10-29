@@ -7,7 +7,9 @@ int main() {
     using std::cout;
 
     runWorker();
-
+    
+    runGraphics();
+    
     arrayFunc();
 
     createObjectFile();
